@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on FarahSaTech<br>👯 I’m looking to collaborate on PHP<br>🤝 I’m looking for help with API Platform<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about anything<br>⚡ Programming is great
+🔭 I am a full-stack web developer with a degree in computer development. 
+🤝 I have gained significant professional experience as a Symfony developer in the web development field. 
+🌱 Thanks to my education and experience, 👯 I have successfully worked on various projects, showcasing my skills in designing, developing, and implementing successful software solutions. 
+⚡I have worked on both desktop and mobile applications using technologies such as Java, JavaScript frameworks, and PHP. 
 
 
 ## 🌐 Socials:
@@ -23,8 +26,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=HM-Hajjaji&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
